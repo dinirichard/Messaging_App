@@ -1,0 +1,4 @@
+Email:dan@ymail.com
+Name:Daniel
+Age:12
+Password:dini

@@ -18,6 +18,7 @@ public class Main {
             ioUtils.writeMessage("1 - create new user;");
             ioUtils.writeMessage("2 - Login;");
             int userOption = scanner.nextInt();
+
             switch (userOption) {
                 case 1:
                     ioUtils.writeMessage("Enter email");

@@ -1,0 +1,4 @@
+Email:andy@gmail.com
+Name:Andy Amexo
+Age:56
+Password:kwame
